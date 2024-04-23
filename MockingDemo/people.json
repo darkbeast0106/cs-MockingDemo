@@ -1,0 +1,72 @@
+﻿[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "age": 30,
+    "is_student": false,
+    "score": 85
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "age": 25,
+    "is_student": true,
+    "score": 92
+  },
+  {
+    "id": 3,
+    "name": "Alice Johnson",
+    "age": 35,
+    "is_student": false,
+    "score": 78
+  },
+  {
+    "id": 4,
+    "name": "Bob Brown",
+    "age": 28,
+    "is_student": true,
+    "score": 88
+  },
+  {
+    "id": 5,
+    "name": "Emily Davis",
+    "age": 22,
+    "is_student": true,
+    "score": 90
+  },
+  {
+    "id": 6,
+    "name": "Michael Wilson",
+    "age": 40,
+    "is_student": false,
+    "score": 80
+  },
+  {
+    "id": 7,
+    "name": "Sarah Martinez",
+    "age": 27,
+    "is_student": true,
+    "score": 95
+  },
+  {
+    "id": 8,
+    "name": "David Lee",
+    "age": 33,
+    "is_student": false,
+    "score": 82
+  },
+  {
+    "id": 9,
+    "name": "Jennifer Taylor",
+    "age": 29,
+    "is_student": true,
+    "score": 89
+  },
+  {
+    "id": 10,
+    "name": "James Anderson",
+    "age": 31,
+    "is_student": false,
+    "score": 86
+  }
+]
